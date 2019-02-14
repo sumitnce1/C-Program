@@ -13,5 +13,4 @@ C-Program
 |7. |In a company an employee is paid as under:if his basic salary is less than Rs. 1500, then HRA=10% of basic salary and DA=90% of basic salary. If his salary is either equal to or above Rs. 1500, then HRA =Rs,500 and DA=98% of basic salary. if the employee's salary is input through the keyboard write a program to find his gross salary.| [C](/example%203.2%20luc.c)
 |8. |if cost  price and selling price of an item are input through the keyboard, write a program to determine whether the seller has made profit or incurred loss. Also, determine how much profit loss he made or loss he incurred.| [C](/Exercise%203%20%5Bc%5D%20(A).c)
 |9. |Any year is input through the keyboard. Write a program to determine whether the year is a leap year or not.| [C](/leap%20year%20Exercise%203%20%5Bc%5D%7Bc%7D.c)
-|10. |According to the Gregorian calendar, it was Monday on the date 01/01/1900. If any year is input through the keyboard
- write a program to find out what is the day on 1st January of this year.| [C](/Exercise%203%20%5Bc%5D%20(d).c)
+|10. |According to the Gregorian calendar, it was Monday on the date 01/01/1900. If any year is input through the keyboard write a program to find out what is the day on 1st January of this year.| [C](/Exercise%203%20%5Bc%5D%20(d).c)
