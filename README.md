@@ -4,7 +4,7 @@ C-Program
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1. |Program to print the "Hello World".|[C].(Hello%20World.c/)|
+|1. |Program to print the "Hello World".| [C++](./algorithms/rectangleArea/RectangleArea.cpp)|Easy|
 
 2. Program to print the name, brach, college, roll no, reg No. using printf function.
 3. Program to print the ASCII value of the character.
