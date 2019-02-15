@@ -22,3 +22,6 @@ C-Program
 |16. |Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if all the three points fall on one straight line.| [C](/Exercise%203%20%5Bc%5D%20(J).c)
 |17. |Given the coordinates (x, y) of a center of a circle and it?s radius, write a program which will determine whether a point lies inside the circle, on the circle or outside the circle. (Hint: Use sqrt( ) and pow( ) functions)| [C](/Exercise%203%20%5Bc%5D%20(K).c)
 |18. |Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz. (0, 0).| [C](/Exercise%203%20%5Bc%5D%20(L).c)
+|19. |The marks obtained by a student in 5 different subjects are input through the keyboard. The student gets a division as per the following rules: Percentage above or equal to 60 - First division Percentage between 50 and 59 - Second division Percentage between 40 and 49 - Third division Percentage less than 40 - Fail Write a program to calculate the division obtained by the student. | [C](/Example%204.1%20luc.c)
+|20. |
+|21. |
