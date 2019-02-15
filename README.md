@@ -24,4 +24,9 @@ C-Program
 |18. |Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz. (0, 0).| [C](/Exercise%203%20%5Bc%5D%20(L).c)
 |19. |The marks obtained by a student in 5 different subjects are input through the keyboard. The student gets a division as per the following rules: Percentage above or equal to 60 - First division Percentage between 50 and 59 - Second division Percentage between 40 and 49 - Third division Percentage less than 40 - Fail Write a program to calculate the division obtained by the student. | [C](/Example%204.1%20luc.c)
 |20. |A company insures its drivers in the following cases: - If the driver is married. - If the driver is unmarried, male & above 30 years of age. - If the driver is unmarried, female & above 25 years of age.In all other cases the driver is not insured. If the marital status, sex and age of the driver are the inputs, wite a program to determine whether the driver is to be insured or not. | [C](/Example%204.2%20luc.c)
-|21. |
+|21. | Write a program to calculate the salary as per the following table: Gender      Years of Service            Qualificatin                    Salary                                                                                                                    Male        >= 10                    Post-Graduate                15000            				                                                          >= 10                       Graduate                   1000
+              < 10                     Post-Graduate                  10000                                     < 10                        Graduate                     7000
+Female          >= 10                    Post-Graduate                 12000
+                >= 10                     Graduate                     9000
+                < 10                      Post-Graduate                10000
+                < 10                     Graduate                     6000 | [C](/Example%204.3%20luc.c)
