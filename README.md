@@ -38,7 +38,7 @@ C-Program
 |32. | Program to swap three numbers using fourth variable.| [C](/swap%20three%20no.%20using%204th%20var.c)
 |34. | Program to  swap three numbers without using fouth variable. |[C](/swap%20three%20no.%20using%204th%20var.c)
 |35. | Program to swap three numbers without using fourth variable (using XOR(^) operator.| [C](/swap%20three%20no.%20using%204th%20XOR%5E%20operator.c)
-|36. | [C]( )
+|36. | Program to find the absolute of an integer.| [C](/absoulte%20value%20integer.c)
 |37. | [C]( )
 |38. | [C]( )
 |39. | [C]( )
