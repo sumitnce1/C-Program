@@ -33,7 +33,7 @@ C-Program
 |27. | Program to do operations over Operators.| [C](/do%20over%20operators.c)
 |28. | Program to do operations over conditional Operators.| [C](/do%20over%20conditional%20operators.c)
 |29. | Program to do operations over bitwise logical operators .| [C](/do%20operations%20over%20bitwise%20operators.c)
-|30. | [C]( )
+|30. | Program to swap two numbers without using third variable (using bitwise XOR(^) operator).| [C](/swap%20two%20no%2C%20.c)
 |31. | [C]( )
 |32. | [C]( )
 |33. | [C]( )
