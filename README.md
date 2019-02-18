@@ -31,7 +31,7 @@ C-Program
 |25. | C Program to demonstrate the working of increment and decrement operators.| [C](/Increment%20and%20Decrement%20Operators.C)
 |26. | C program to check whether a character is vowel or consonant.| [C](/VOWEL%20OR%20CONSONANT.C)
 |27. | Program to do operations over Operators.| [C](/do%20over%20operators.c)
-|28. | [C]( )
+|28. | Program to do operations over conditional Operators.| [C](/do%20over%20conditional%20operators.c)
 |29. | [C]( )
 |30. | [C]( )
 |31. | [C]( )
