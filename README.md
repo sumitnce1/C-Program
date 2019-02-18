@@ -37,7 +37,7 @@ C-Program
 |31. | Program to swap two numbers without using third variable (using^=operator).| [C](/swap%20two%20no.%20%5E%3D%20operator.c)
 |32. | Program to swap three numbers using fourth variable.| [C](/swap%20three%20no.%20using%204th%20var.c)
 |34. | Program to  swap three numbers without using fouth variable. |[C](/swap%20three%20no.%20using%204th%20var.c)
-|35. | [C]( )
+|35. | Program to swap three numbers without using fourth variable (using XOR(^) operator.| [C](/swap%20three%20no.%20using%204th%20XOR%5E%20operator.c)
 |36. | [C]( )
 |37. | [C]( )
 |38. | [C]( )
