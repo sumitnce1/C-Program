@@ -28,7 +28,7 @@ C-Program
 |22. | Program to find the simple interest.| [C](/Simple%20Interst.c)
 |23. | Program to find the Area of triangle using  hero's formula.| [C](/hero's%20formula.c)
 |24. | C Program to demonstrate the working of arithmetic operators.| [C](/Arthmatic%20operators.c)
-|25. | [C]( )
+|25. | C Program to demonstrate the working of increment and decrement operators.| [C](/Increment%20and%20Decrement%20Operators.C)
 |26. | [C]( )
 |27. | [C]( )
 |28. | [C]( )
