@@ -32,7 +32,7 @@ C-Program
 |26. | C program to check whether a character is vowel or consonant.| [C](/VOWEL%20OR%20CONSONANT.C)
 |27. | Program to do operations over Operators.| [C](/do%20over%20operators.c)
 |28. | Program to do operations over conditional Operators.| [C](/do%20over%20conditional%20operators.c)
-|29. | [C]( )
+|29. | Program to do operations over bitwise logical operators .| [C](/do%20operations%20over%20bitwise%20operators.c)
 |30. | [C]( )
 |31. | [C]( )
 |32. | [C]( )
