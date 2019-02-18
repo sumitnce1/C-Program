@@ -27,7 +27,7 @@ C-Program
 |21. | Write a program to calculate the salary as per the following table:| [C](/Example%204.3%20luc.c)
 |22. | Program to find the simple interest.| [C](/Simple%20Interst.c)
 |23. | Program to find the Area of triangle using  hero's formula.| [C](/hero's%20formula.c)
-|24. | [C]( )
+|24. | C Program to demonstrate the working of arithmetic operators.| [C](/Arthmatic%20operators.c)
 |25. | [C]( )
 |26. | [C]( )
 |27. | [C]( )
