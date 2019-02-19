@@ -45,3 +45,4 @@ C-Program
 |40. | Program to a number is even or odd.| [C](/even%20or%20odd.c)
 |41. | Program to read three points of a triangle and test for collinearity.| [C](/triangle%20test%20collinerarity.c)
 |42. | Program to read pint form the user and print that point belongs to 1st or 2nd or 3rd or 4th quadrant.| [C](/1st%20to%204th%20quardrant.c)
+|43. | [C] ()
