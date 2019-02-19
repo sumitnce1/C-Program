@@ -44,3 +44,4 @@ C-Program
 |39. | Program to find the biggest among 4 numbers |[C](/biggest%20among%204%20no..c)
 |40. | Program to a number is even or odd.| [C](/even%20or%20odd.c)
 |41. | [C]( )
+|42. | [C]( )
