@@ -40,6 +40,6 @@ C-Program
 |35. | Program to swap three numbers without using fourth variable (using XOR(^) operator.| [C](/swap%20three%20no.%20using%204th%20XOR%5E%20operator.c)
 |36. | Program to find the absolute of an integer.| [C](/absoulte%20value%20integer.c)
 |37. | Program to read two numbers from the user and print the biggest among them.| [C](/biggest%20no..c)
-|38. | [C]( )
+|38. | program to find the biggest among 3 numbers.| [C](/biggest%20among%203%20no..c)
 |39. | [C]( )
 |40. | [C]( )
