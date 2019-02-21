@@ -51,4 +51,6 @@ C-Program
 |46. | Program to print odd and even numbers ipto a range.| [C] ()
 |47. | Program to print even numbers upto a range and find the average.| [C] ()
 |48. | Program is to find the factorial of a given number.| [C] ()
-|49. | [C] ()
+|49. | Program is to a given number is prime or not.| [C] ()
+|50. | [C]()
+
