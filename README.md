@@ -46,7 +46,7 @@ C-Program
 |41. | Program to read three points of a triangle and test for collinearity.| [C](/triangle%20test%20collinerarity.c)
 |42. | Program to read pint form the user and print that point belongs to 1st or 2nd or 3rd or 4th quadrant.| [C](/1st%20to%204th%20quardrant.c)
 |43. | Program to find the largest and second largest of three numbers.| [C]()
-|44. | [C] ()
+|44. | Program to find the smallest among N elements with out using array.| [C] ()
 |45. | [C] ()
 |46. | [C] ()
 |47. | [C] ()
