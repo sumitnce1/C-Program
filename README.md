@@ -48,7 +48,7 @@ C-Program
 |43. | Program to find the largest and second largest of three numbers.| [C]()
 |44. | Program to find the smallest among N elements with out using array.| [C]()
 |45. | Program is to print the table of a given number.|[C] ()
-|46. | [C] ()
+|46. | Program to print odd and even numbers ipto a range.| [C] ()
 |47. | [C] ()
 |48. | [C] ()
 |49. | [C] ()
