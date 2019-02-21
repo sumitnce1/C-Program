@@ -53,4 +53,4 @@ C-Program
 |48. | Program is to find the factorial of a given number.| [C] ()
 |49. | Program is to a given number is prime or not.| [C] ()
 |50. | Program is to print the prime numbers from 2 to N. [C] ()
-
+|51. | Program to print the Twin Prime numbers upto a range (twin prime means if the difference of two prime number is 2.| [C] ()
