@@ -61,4 +61,5 @@ C-Program
 |56. | Program to check number is a strong number or nor.| [C]()
 |57. | Program to check number is a Armstrong number not.| [C]()
 |58. | Program to check a number is Palindrome number or not.| [C]()
-|59. | 
+|59. | Program is to convert a number into a single digit.| [C]()
+|60. | 
