@@ -58,3 +58,5 @@ C-Program
 |53. | Program to find the reverse of a given number.| [C]()
 |54. | Program to find the factors of a given number.| [C]()
 |55. | Program to check number is a perfect number or not.| [C]()
+|56. | Program to check number is a strong number or nor.| [C]()
+|57. | 
