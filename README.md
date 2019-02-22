@@ -60,4 +60,5 @@ C-Program
 |55. | Program to check number is a perfect number or not.| [C]()
 |56. | Program to check number is a strong number or nor.| [C]()
 |57. | Program to check number is a Armstrong number not.| [C]()
-|58. | 
+|58. | Program to check a number is Palindrome number or not.| [C]()
+|59. | 
