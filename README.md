@@ -49,7 +49,7 @@ C-Program
 |44. | Program to find the smallest among N elements with out using array.| [C](/smallest%20using%20array.c)
 |45. | Program is to print the table of a given number.|[C](/table%20of%20given%20no.c)
 |46. | Program to print odd and even numbers upto a range.| [C](/odd%20%20and%20even%20up%20range.c)
-|47. | Program to print even numbers upto a range and find the average.| [C]()
+|47. | Program to print even numbers upto a range and find the average.| [C](/even%20no.%20upto%20range.c)
 |48. | Program is to find the factorial of a given number.| [C]()
 |49. | Program is to a given number is prime or not.| [C]()
 |50. | Program is to print the prime numbers from 2 to N.| [C]()
