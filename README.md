@@ -64,3 +64,4 @@ C-Program
 |59. | Program is to convert a number into a single digit.| [C]()
 |60. | Program is to find the sum or sub or mul or div or mod of two numbers using switch case.| [C]()
 |61. | Program to find the sum of the given series using loop (Sum=1+2+3+......+n).| [C]()
+|62. | Program to find the sum of the series (Sum = 1-2+3-4+5-..........+n).| [C]()
