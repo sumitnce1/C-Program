@@ -51,7 +51,7 @@ C-Program
 |46. | Program to print odd and even numbers upto a range.| [C](/odd%20%20and%20even%20up%20range.c)
 |47. | Program to print even numbers upto a range and find the average.| [C](/even%20no.%20upto%20range.c)
 |48. | Program is to find the factorial of a given number.| [C](/find%20factorial%20given%20no..c)
-|49. | Program is to a given number is prime or not.| [C]()
+|49. | Program is to a given number is prime or not.| [C](/given%20no.%20prime%20or%20not.c)
 |50. | Program is to print the prime numbers from 2 to N.| [C]()
 |51. | Program to print the Twin Prime numbers upto a range (twin prime means if the difference of two prime number is 2.| [C]()
 |52. | Program is to fine the nCr.| [C]()
