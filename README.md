@@ -54,7 +54,7 @@ C-Program
 |49. | Program is to a given number is prime or not.| [C](/given%20no.%20prime%20or%20not.c)
 |50. | Program is to print the prime numbers from 2 to N.| [C](/prime%20numbers%20from%202to%20N.c)
 |51. | Program to print the Twin Prime numbers upto a range (twin prime means if the difference of two prime number is 2.| [C](/prime%20no.%20twin.c)
-|52. | Program is to fine the nCr.| [C]()
+|52. | Program is to fine the nCr.| [C](/find%20ncr.c)
 |53. | Program to find the reverse of a given number.| [C]()
 |54. | Program to find the factors of a given number.| [C]()
 |55. | Program to check number is a perfect number or not.| [C]()
